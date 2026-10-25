@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-label="Nathan John Jeckoniah, Junior DevOps Developer">
+<defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#0F2236"/><stop offset="1" stop-color="#245484"/></linearGradient></defs>
+<style>
+.name{font:700 54px -apple-system,'Segoe UI',Helvetica,Arial,sans-serif;fill:#FFFFFF;letter-spacing:-1px}
+.head{font:500 26px -apple-system,'Segoe UI',Helvetica,Arial,sans-serif;fill:#DCE6F5}
+.st{font:600 17px -apple-system,'Segoe UI',Helvetica,Arial,sans-serif;fill:#DCE6F5;opacity:.85}
+.track{stroke:#FFFFFF;stroke-opacity:.14;stroke-width:2}
+.flow{stroke:#4A86C5;stroke-width:3;stroke-linecap:round;stroke-dasharray:900;stroke-dashoffset:900;animation:draw 6.5s cubic-bezier(.65,0,.35,1) infinite}
+.n{opacity:0;animation:pop 6.5s ease-out infinite}
+@keyframes draw{0%{stroke-dashoffset:900}70%,88%{stroke-dashoffset:0;opacity:1}100%{stroke-dashoffset:0;opacity:0}}
+@keyframes pop{0%{opacity:0}8%,80%{opacity:1}95%,100%{opacity:0}}
+@media (prefers-reduced-motion:reduce){.flow{animation:none;stroke-dashoffset:0}.n{animation:none;opacity:1}}
+</style>
+<rect width="1200" height="300" rx="18" fill="url(#g)"/>
+<text x="150" y="112" class="name">Nathan John Jeckoniah</text>
+<text x="152" y="152" class="head">Junior DevOps Developer | Go, Kubernetes, Terraform</text>
+<path d="M150 235 L330 235 L510 235 L690 235 L870 235 L1050 235" class="track" fill="none"/>
+<path d="M150 235 L330 235 L510 235 L690 235 L870 235 L1050 235" class="flow" fill="none"/>
+<g class="n" style="animation-delay:0.0s"><circle cx="150" cy="235" r="6" fill="#4A86C5"/><text x="150" y="263" text-anchor="middle" class="st">plan</text></g><g class="n" style="animation-delay:0.9s"><circle cx="330" cy="235" r="6" fill="#4A86C5"/><text x="330" y="263" text-anchor="middle" class="st">code</text></g><g class="n" style="animation-delay:1.8s"><circle cx="510" cy="235" r="6" fill="#4A86C5"/><text x="510" y="263" text-anchor="middle" class="st">build</text></g><g class="n" style="animation-delay:2.7s"><circle cx="690" cy="235" r="6" fill="#4A86C5"/><text x="690" y="263" text-anchor="middle" class="st">test</text></g><g class="n" style="animation-delay:3.6s"><circle cx="870" cy="235" r="6" fill="#4A86C5"/><text x="870" y="263" text-anchor="middle" class="st">deploy</text></g><g class="n" style="animation-delay:4.5s"><circle cx="1050" cy="235" r="6" fill="#4A86C5"/><text x="1050" y="263" text-anchor="middle" class="st">monitor</text></g>
+</svg>
