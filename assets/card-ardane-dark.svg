@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="300" height="186" viewBox="0 0 300 186" role="img" aria-label="Ardane Flashcards">
+<style>
+.ti{font:700 20px -apple-system,'Segoe UI',Helvetica,Arial,sans-serif;fill:#DCE6F5}
+.de{font:400 15px -apple-system,'Segoe UI',Helvetica,Arial,sans-serif;fill:#8FA6C1}
+.do{font:600 13px -apple-system,'Segoe UI',Helvetica,Arial,sans-serif;fill:#4A86C5}
+.bar{fill:#4A86C5}
+@keyframes fade{from{opacity:0}to{opacity:1}}
+@keyframes grow{from{transform:scaleX(0)}to{transform:scaleX(1)}}
+@media (prefers-reduced-motion:reduce){.bar{animation:none}}
+</style>
+<rect x=".5" y=".5" width="299" height="185" rx="14" fill="#111C2A" stroke="#22364F"/>
+<rect x="28" y="26" width="44" height="4" rx="2" class="bar"/>
+<text x="28" y="62" class="ti">Ardane Flashcards</text>
+<text y="92" class="de"><tspan x="28" dy="0">An open source initiative for</tspan><tspan x="28" dy="22">students who make their own</tspan><tspan x="28" dy="22">cards.</tspan></text>
+<text x="28" y="164" class="do">ardaneflashcards.store</text>
+</svg>
