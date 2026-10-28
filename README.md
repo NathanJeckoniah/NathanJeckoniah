@@ -11,10 +11,9 @@
 A full-time CS student preparing for DevOps Engineering among other roles such as:
 
 - Cloud Engineering
+- Platform Engineering
 - Systems Engineering
 - DevSecOps Specialist
-- Software Engineering
-- Forward Deployed Engineering
 - Site Reliability Engineering (SRE) / Production Engineering
 
 ## Skills
