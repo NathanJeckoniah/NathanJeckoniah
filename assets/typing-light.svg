@@ -1,14 +1,14 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="56" viewBox="0 0 1200 56" role="img" aria-label="I build cool stuff. Cool stuff that does not break. And when it breaks, I fix it. Fast.">
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="56" viewBox="0 0 1200 56" role="img" aria-label="Go and resilient CI/CD. That's the future of DevOps.">
 <style>
 .t{font:500 21px ui-monospace,SFMono-Regular,Menlo,Consolas,monospace;fill:#0F2236}
-#r{animation:type 9s steps(87) infinite}
-.cur{fill:#4A86C5;animation:blink .9s steps(1) infinite, move 9s steps(87) infinite}
-@keyframes type{0%{width:0}55%,92%{width:1096.2px}100%{width:1096.2px}}
-@keyframes move{0%{transform:translateX(0)}55%,100%{transform:translateX(1096.2px)}}
+#r{animation:type 9s steps(52) infinite}
+.cur{fill:#4A86C5;animation:blink .9s steps(1) infinite, move 9s steps(52) infinite}
+@keyframes type{0%{width:0}55%,92%{width:655.2px}100%{width:655.2px}}
+@keyframes move{0%{transform:translateX(0)}55%,100%{transform:translateX(655.2px)}}
 @keyframes blink{50%{opacity:0}}
-@media (prefers-reduced-motion:reduce){#r{animation:none;width:1096.2px}.cur{animation:none;opacity:0}}
+@media (prefers-reduced-motion:reduce){#r{animation:none;width:655.2px}.cur{animation:none;opacity:0}}
 </style>
-<defs><clipPath id="c"><rect id="r" x="51.9" y="0" width="0" height="56"/></clipPath></defs>
-<text x="51.9" y="35" class="t" clip-path="url(#c)">I build cool stuff. Cool stuff that does not break. And when it breaks, I fix it. Fast.</text>
-<rect class="cur" x="51.9" y="18" width="2.5" height="23"/>
+<defs><clipPath id="c"><rect id="r" x="272.4" y="0" width="0" height="56"/></clipPath></defs>
+<text x="272.4" y="35" class="t" clip-path="url(#c)">Go and resilient CI/CD. That's the future of DevOps.</text>
+<rect class="cur" x="272.4" y="18" width="2.5" height="23"/>
 </svg>

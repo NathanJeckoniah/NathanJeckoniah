@@ -2,7 +2,7 @@
 
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.svg"><img src="assets/banner-light.svg" alt="Nathan John Jeckoniah, Junior DevOps Developer | Go, Kubernetes, Terraform"></picture>
 
-<picture><source media="(prefers-color-scheme: dark)" srcset="assets/typing-dark.svg"><img src="assets/typing-light.svg" alt="I build cool stuff. Cool stuff that does not break. And when it breaks, I fix it. Fast."></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/typing-dark.svg"><img src="assets/typing-light.svg" alt="Go and resilient CI/CD. That's the future of DevOps."></picture>
 
 </div>
 
@@ -11,10 +11,9 @@
 A full-time CS student preparing for DevOps Engineering among other roles such as:
 
 - Cloud Engineering
+- Platform Engineering
 - Systems Engineering
 - DevSecOps Specialist
-- Software Engineering
-- Forward Deployed Engineering
 - Site Reliability Engineering (SRE) / Production Engineering
 
 ## Skills
