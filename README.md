@@ -8,13 +8,7 @@
 
 ## About
 
-A full-time CS student preparing for DevOps Engineering among other roles such as:
-
-- Cloud Engineering
-- Platform Engineering
-- Systems Engineering
-- DevSecOps Specialist
-- Site Reliability Engineering (SRE) / Production Engineering
+A full-time CS student preparing for DevOps Engineering and Systems Engineering. I learn by building, breaking and fixing things in Go, Linux and CI/CD pipelines.
 
 ## Skills
 
@@ -24,7 +18,6 @@ A full-time CS student preparing for DevOps Engineering among other roles such a
 
 <p align="center">
 <a href="https://ardaneflashcards.store"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/card-ardane-dark.svg"><img src="assets/card-ardane-light.svg" alt="Ardane Flashcards" width="260"></picture></a>
-<a href="https://shipyardcollective.dev"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/card-shipyard-dark.svg"><img src="assets/card-shipyard-light.svg" alt="Shipyard Collective" width="260"></picture></a>
 <a href="https://github.com/NathanJeckoniah/njjeckoniah-builds"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/card-builds-dark.svg"><img src="assets/card-builds-light.svg" alt="njjeckoniah-builds" width="260"></picture></a>
 </p>
 
